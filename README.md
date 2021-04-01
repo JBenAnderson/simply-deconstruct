@@ -13,7 +13,7 @@ Download simply-deconstruct folder and load index.html into your browser.  Check
 
 Roadmap
 -------------------------------------------------
--would like to add many more examples of deconstructing in the future.
+-would like to add many more examples of deconstruction in the future.
 
 Notes
 ----------------------------------------
